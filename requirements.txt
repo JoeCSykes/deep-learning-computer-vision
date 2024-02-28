@@ -1,0 +1,16 @@
+numpy
+scikit-learn
+matplotlib
+keras
+keras-cv
+tensorflow
+scikit-image
+keras-core
+opencv-python
+imutils
+h5py
+progressbar2
+pydot-ng
+graphviz
+pillow==9.5.0
+visualkeras
